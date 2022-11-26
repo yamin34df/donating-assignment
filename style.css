@@ -1,0 +1,135 @@
+.sec1{
+    background-image: url("image/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    padding: 150px 200px;
+    text-align: center;
+}
+.front{
+
+    color: aliceblue;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 38;
+}
+
+
+
+p{
+    font-size: 25px;
+}
+.red-letters{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+
+
+
+.btn{
+    background-color: coral;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    
+  }
+
+
+.sec2{
+    text-align: center;
+    
+}
+.flx{
+    display: flex;
+    text-align: left;
+    margin: 10px;
+    padding: 50px;
+
+    
+}
+.ammount{
+    margin: 40px;
+    border: solid;
+    border-color: grey;
+    
+    width: 150px;
+}
+.ammount-b{
+    margin: 40px;
+    border: solid;
+    border-color: crimson;
+    color: red;
+    
+    width: 150px;
+}
+.inp{
+    text-align: center;
+}
+.sec3{
+    text-align: center;
+    color: darkcyan;
+    font-weight: bolder;
+}
+.cart1{
+    background-color: rgba(222, 184, 135, 0.342);
+}
+.cart2{
+    background-color: rgba(242, 149, 245, 0.377);
+}
+.cart3{
+    background-color: rgba(222, 184, 135, 0.342);
+    
+}
+.ipt{
+    width: 300px;
+    height: 28px;
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.crt{
+    
+    margin: 20px;
+    width: 32%;
+    border-radius: 20px;
+    padding: 15px;
+}
+.ig{
+    width: 45%;
+    margin: 15px;
+}
+
+.description{
+    width: 45%;
+    margin: 10px;
+    border: 10px;
+    padding: 20px;
+}
+.sec6{
+    text-align: center;
+}
+.footer-section{
+    background-color: black;
+    height: 170px;
+    text-align: center;
+    color: coral;
+    
+}
+.ncls{
+    text-align: end;
+}
+.itl{
+    font-style: italic;
+    font-weight: bolder;
+}
